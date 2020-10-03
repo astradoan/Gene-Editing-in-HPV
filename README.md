@@ -20,5 +20,5 @@ Compared to the control group the experimental saw a relatively drastic decrease
 ![Results: viable cells and cell survival after 10 days](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4178730/bin/zjv9990996220005.jpg)
 
 Results: viable cells and cell survival after 10 days, from the Cullen Lab (linked above)
-## Significance of more gene editing research, the future
+## The future of gene editing
 CRISPR-Cas still under trial to being more precise and thorough to bring the viable cancer cells down to 0, as a tenfold decrease may be even more dangerous for more malignant cancers. Physical removal or death of cancer tissue on a larger scale is currently the most preferred method and ranges from freezing to cone biopsy. With further research, gene editing can save millions with different types of HPV and other diseases.
